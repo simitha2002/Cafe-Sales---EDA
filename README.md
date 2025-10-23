@@ -109,4 +109,4 @@ I’m a Data Science intern with a background in Botany, now focused on analytic
 
 I’m passionate about building reproducible workflows, crafting clear visual narratives, and connecting insights across domains such as education, health, financial inclusion, and policy.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/simitha-ummer/) or explore more of my work on [GitHub](https://github.com/simitha2002).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/simitha-ummer-69a848350) or explore more of my work on [GitHub](https://github.com/simitha2002).
