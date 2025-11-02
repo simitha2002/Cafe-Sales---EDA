@@ -90,7 +90,6 @@ cafe-sales-analysis/
 ├── notebooks/                # Jupyter notebooks for EDA and analysis
 │   └── cafe.ipynb            # Final analysis notebook
 │
-├── visuals/                  # Plots, charts
 ```
 ---
 
